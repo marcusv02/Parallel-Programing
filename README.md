@@ -16,4 +16,4 @@ the available images to use in the program. There are two black-and-white images
 The OpenCL solution.
 
 ### Tutorial 2
-The necessary files needed to run te program in Visual Studio.
+The necessary files needed to run the program in Visual Studio.
